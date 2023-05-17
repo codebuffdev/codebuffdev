@@ -4,7 +4,7 @@
 # 💫 About Me:
 As a Java Developer, I have a thorough understanding of core Java concepts, such as Object-Oriented Programming, Functional Programming, Garbage Collection and Software Design Patterns & Principles. I have extensive experience in the development of Java-based applications and their related technologies, as well as knowledge of popular Java frameworks and libraries including Spring, Hibernate and Boot. Furthermore, I have been involved in the design, development, debugging, testing and deployment of robust, reliable, and maintainable applications. Additionally, I possess development experience with databases such as MySQL and Oracle, and a good comprehension of SQL. Moreover, I have collaborated closely with the deployment team, and I have a strong understanding of Docker, Kubernetes, and AWS Cloud.
 
-<img align="right" alt="Coading" width="350" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b76113cd089a671d483fcdcd7154aa8db050bd4ddd68a&rid=giphy.gif&ct=g">
+<img align="right" alt="Coading" width="200" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b76113cd089a671d483fcdcd7154aa8db050bd4ddd68a&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codebuffdev&label=Profile%20views&color=0e75b6&style=flat" alt="codebuffdev" /> </p>
 
