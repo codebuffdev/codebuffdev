@@ -6,7 +6,7 @@ As a Java Developer, I have a thorough understanding of core Java concepts, such
 
 <img align="right" alt="Coading" width="350" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b76113cd089a671d483fcdcd7154aa8db050bd4ddd68a&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=techanshumaan&label=Profile%20views&color=0e75b6&style=flat" alt="techanshumaan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebuffdev&label=Profile%20views&color=0e75b6&style=flat" alt="codebuffdev" /> </p>
 
 
 
@@ -49,9 +49,9 @@ As a Java Developer, I have a thorough understanding of core Java concepts, such
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techanshumaan&show_icons=true&locale=en&layout=compact" alt="techanshumaan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebuffdev&show_icons=true&locale=en&layout=compact" alt="codebuffdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=techanshumaan&show_icons=true&locale=en" alt="techanshumaan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codebuffdev&show_icons=true&locale=en" alt="codebuffdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techanshumaan&" alt="techanshumaan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebuffdev&" alt="codebuffdev" /></p>
 
