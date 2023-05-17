@@ -60,7 +60,6 @@ As a Java Developer, I have a thorough understanding of core Java concepts, such
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codebuffdev&show_icons=true&locale=en&layout=compact" alt="codebuffdev" /></p>
