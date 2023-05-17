@@ -17,7 +17,8 @@ As a Java Developer, I have a thorough understanding of core Java concepts, such
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![Rest](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=rest&logoColor=white)
+![Rest](https://img.shields.io/badge/REST-rest%20api-whiteff1709?style=for-the-badge&logo=rest&logoColor=white)
+
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
