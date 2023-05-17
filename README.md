@@ -8,7 +8,7 @@ As a Java Developer, I have a thorough understanding of core Java concepts, such
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techanshumaan&label=Profile%20views&color=0e75b6&style=flat" alt="techanshumaan" /> </p>
 
-// @<p align="left"> <a href="https://twitter.com/@stupid___coder" target="blank"><img src="https://img.shields.io/twitter/follow/@stupid___coder?logo=twitter&style=for-the-badge" alt="@stupid___coder" /></a> </p> 
+
 
 - 📫 How to reach me **codebuffdev@gmail.com**
 
