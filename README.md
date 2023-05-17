@@ -66,4 +66,4 @@ As a Java Developer, I have a thorough understanding of core Java concepts, such
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codebuffdev&" alt="codebuffdev" /></p>
 
-<p><img align="center" scr="https://github-profile-trophy.vercel.app/?username={codebuffdev}" alt="codebuffdev"</p>
+<p><img align="center" scr="https://github-profile-trophy.vercel.app/?username=codebuffdev&" alt="codebuffdev"</p>
