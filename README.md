@@ -6,9 +6,6 @@ As a Java Developer, I have a thorough understanding of core Java concepts, such
 
 <img align="right" alt="Coading" width="200" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b76113cd089a671d483fcdcd7154aa8db050bd4ddd68a&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codebuffdev&label=Profile%20views&color=0e75b6&style=flat" alt="codebuffdev" /> </p>
-
-
 
 - 📫 How to reach me **codebuffdev@gmail.com**
 
