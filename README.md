@@ -10,6 +10,8 @@ As a Java Developer, I have a thorough understanding of core Java concepts, such
 - 📫 How to reach me **codebuffdev@gmail.com**
 
 
+---
+
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
