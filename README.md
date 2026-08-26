@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubhadarshan</h1>
-<h3 align="center">A rookie java developer from India</h3>
 
 # 💫 About Me:
-As a Java Developer, I have a thorough understanding of core Java concepts, such as Object-Oriented Programming, Functional Programming, Garbage Collection and Software Design Patterns & Principles. I have extensive experience in the development of Java-based applications and their related technologies, as well as knowledge of popular Java frameworks and libraries including Spring, Hibernate and Boot. Furthermore, I have been involved in the design, development, debugging, testing and deployment of robust, reliable, and maintainable applications. Additionally, I possess development experience with databases such as MySQL and Oracle, and a good comprehension of SQL. Moreover, I have collaborated closely with the deployment team, and I have a strong understanding of Docker, Kubernetes, and AWS Cloud.
+As a Developer, I have a thorough understanding of core Java concepts, such as Object-Oriented Programming, Functional Programming, Garbage Collection and Software Design Patterns & Principles. I have extensive experience in the development of Java-based applications and their related technologies, as well as knowledge of popular Java frameworks and libraries including Spring, Hibernate and Boot. Furthermore, I have been involved in the design, development, debugging, testing and deployment of robust, reliable, and maintainable applications. Additionally, I possess development experience with databases such as MySQL and Oracle, and a good comprehension of SQL. Moreover, I have collaborated closely with the deployment team, and I have a strong understanding of Docker, Kubernetes, and AWS Cloud.
 
 <img align="right" alt="Coading" width="200" src="https://media3.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif?cid=790b76113cd089a671d483fcdcd7154aa8db050bd4ddd68a&rid=giphy.gif&ct=g">
 
@@ -26,7 +25,6 @@ As a Java Developer, I have a thorough understanding of core Java concepts, such
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![REACT](https://img.shields.io/badge/React-DD0031?style=for-the-badge&logo=react&logoColor=blue)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
 
 
