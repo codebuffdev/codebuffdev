@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Shubhadarshan
 
-## 🚀 Featured Project
-
-Sketchizi — Collaborative Diagramming & Whiteboard
+## 🚀 Featured Project : Sketchizi — Collaborative Diagramming & Whiteboard
 
 I’m currently building Sketchizi, a live browser-based diagramming and whiteboard application with real-time collaboration, shareable sessions, responsive UI, and cloud deployment.
 
